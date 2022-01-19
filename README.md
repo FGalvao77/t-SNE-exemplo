@@ -1,1 +1,1 @@
-# t-SNE-exemplo
+# Aplicação prática do `t-SNE`
